@@ -12,7 +12,7 @@ Basic   | Spec Sheet
 CPU     | Octa-core 2.0-2.2 GHz Cortex-A53
 Chipset | Mediatek MT6795 Helio X10
 GPU     | PowerVR G6200
-Memory  | 2-3GB 
+Memory  | 2GB
 Storage | 16-32GB
 Battery | Removable Li-po 3060 mAh battery
 Display | 1080 x 1920 pixels (~401 ppi pixel density) 5.5 inches
